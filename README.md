@@ -1,6 +1,8 @@
 # JobHunterRelease
 JobHunterRelease
 
+UserName: admin@ncstc.in
+Password: admin@12345
 
 JOBHUNTER is updated now. You can clone it from <a href="https://github.com/wasimakhtarcnx/JobHunter.git">https://github.com/wasimakhtarcnx/JobHunter.git</a> for Automated Job Apply. With Your GitHub Login
 
